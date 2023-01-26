@@ -2,7 +2,7 @@
 
 ## Lane Tracking for self driving cars
 
-This application is used to track road lanes by passing input video of the road thus producing the desired output dettecting the lanes of the road. Open CV open source library is used to process videos. Each of the image frames are ananlysed by Numpy library to get the image pixel values. The detection of lanes is done by frame masking and Hough Line Transform.
+This application is used to track road lanes by passing input video of the road thus producing the desired output detecting the lanes of the road. Open CV open source library is used to process videos. Each of the image frames are analysed by Numpy library to get the image pixel values. The detection of lanes is done by frame masking and Hough Line Transform.
 
 ## Smaple Output
 
